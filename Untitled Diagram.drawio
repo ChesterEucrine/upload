@@ -37,6 +37,15 @@
         <mxCell id="OWey0RDO4I-oCDm1B73d-1" parent="1" style="whiteSpace=wrap;html=1;" value="&amp;gt; A2&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Coprox&lt;/div&gt;&lt;div&gt;- Vinyl&lt;/div&gt;&lt;div&gt;- PvC&lt;/div&gt;&lt;div&gt;- Canvas&lt;/div&gt;&lt;div&gt;- Banners&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="120" x="40" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="OWey0RDO4I-oCDm1B73d-2" parent="1" style="whiteSpace=wrap;html=1;" value="Screens&lt;br&gt;Charging Ports&lt;br&gt;Motherboard&lt;br&gt;Software&lt;div&gt;Spares&lt;/div&gt;&lt;div&gt;Upgrades&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="320" x="440" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="OWey0RDO4I-oCDm1B73d-4" parent="1" style="whiteSpace=wrap;html=1;" value="Assessories&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Frames&lt;/div&gt;&lt;div&gt;- Stands&lt;/div&gt;&lt;div&gt;- Card Holders&lt;/div&gt;&lt;div&gt;- Gift Bags&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="460" x="-300" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="OWey0RDO4I-oCDm1B73d-5" parent="1" style="whiteSpace=wrap;html=1;" value="Assessories&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Chargers&lt;/div&gt;&lt;div&gt;- Display Cables&lt;/div&gt;&lt;div&gt;- Protectors&lt;/div&gt;&lt;div&gt;- Cases&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="320" x="440" y="720" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
